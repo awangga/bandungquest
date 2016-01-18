@@ -15,8 +15,8 @@ MAP
 
   WEB
 	TEMPLATE "map.html"
-	IMAGEPATH "/Users/awangga/Sites/map/tmp/"
-	IMAGEURL "/map/tmp/"
+	IMAGEPATH "/home/bandun.gq/public_html/tmp/"
+	IMAGEURL "/tmp/"
   END  
   
   LAYER
