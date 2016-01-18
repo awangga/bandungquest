@@ -15,7 +15,7 @@ MAP
 
   WEB
 	TEMPLATE "map.html"
-	IMAGEPATH "/home/chroot/bandungq/home/bandun.gq/public_html/tmp/"
+	IMAGEPATH "/home/chroot/bandungq/home/bandun.gq/public_html/tmlp/"
 	IMAGEURL "/tmp/"
   END  
   
